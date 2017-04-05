@@ -23,6 +23,7 @@ class Data extends CI_Controller {
 	{
         $this->load->model('server');
 		$data['serverlist'] = $this->server->getServerList();
+        $this->load->helper('url');
         $this->load->view('data', $data);
 	}
 
