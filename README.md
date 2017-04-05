@@ -6,6 +6,7 @@ To run the project:
 
 	https://www.apachefriends.org/download.html - XXAMP
 	http://www.wampserver.com/en/ - WAMP
+
 	https://bitnami.com/stack/lamp/installer - LAMP
 	https://www.mamp.info/en/downloads/ - MAMP
 
