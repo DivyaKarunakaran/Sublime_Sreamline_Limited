@@ -1,4 +1,4 @@
-Developed a responsive website using PHP5 (CodeIgniter – Open Source Framework), JavaScript Libraries (Jquery and amChart), Bootstrap3, , JSON, AJAX, HTML5 and CSS3.
+Developed a responsive website using PHP5 (CodeIgniter – Open Source Framework), JavaScript Libraries (Jquery and amChart), Bootstrap3 , JSON, AJAX, HTML5 and CSS3.
 
 To run the project:
 
